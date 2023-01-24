@@ -30,7 +30,7 @@
 
 var async = require('async');
 var events = require('events');
-var noble = require('noble');
+var noble = require('@abandonware/noble');
 var util = require('util');
 var colors = require('colors');
 var server = require('socket.io');

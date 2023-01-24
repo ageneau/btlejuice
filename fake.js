@@ -6,7 +6,7 @@
  * interaction with real-world applications and other devices.
  **/
 
-var bleno = require('bleno');
+var bleno = require('@abandonware/bleno');
 var async = require('async');
 var events = require('events');
 var util = require('util');
